@@ -1,6 +1,8 @@
 # Lab12
 # Screen - phpmyadmin port 90 , phpinfo() port 80
 ![docker](https://user-images.githubusercontent.com/103449118/172065726-d21acd44-2a7f-42b8-88e9-a4355bfb1e80.png)
+# Drzewo
+![docker-compose](https://user-images.githubusercontent.com/103449118/172065947-0052451b-ef83-469c-bd19-47d1c68bf468.png)
 
 # Files
 # Apache Dockerfile
